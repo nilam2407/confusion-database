@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "/assets/images/uthappizza.png",
+      "image": "http://www.ifairer.com/article_image/1506319817-ifairer.jpg",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "/assets/images/zucchipakoda.png",
+      "image": "https://ikneadtoeat.com/wp-content/uploads/2019/09/Mixed-Vegetable-Pakora-1-500x500.jpg",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Vadonut",
-      "image": "/assets/images/vadonut.png",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/10/medu-vada-recipe-2-500x500.jpg",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "ElaiCheese Cake",
-      "image": "/assets/images/elaicheesecake.png",
+      "image": "https://www.lemonblossoms.com/wp-content/uploads/2020/07/Lemon-Poke-Cake-Recipe-S1-500x500.jpg",
       "category": "dessert",
       "label": "",
       "price": "2.99",
@@ -228,7 +228,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "/assets/images/buffet.png",
+      "image": "https://alexisdinerrt10.com/wp-content/uploads/2017/08/ctr-img1.jpg",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -238,8 +238,8 @@
   "leaders": [
     {
       "id": 0,
-      "name": "Peter Pan",
-      "image": "/assets/images/alberto.png",
+      "name": "Atul kocchar",
+      "image": "https://img.theculturetrip.com/768x/smart/wp-content/uploads/2017/11/atul_kochhar.jpg",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -248,7 +248,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "/assets/images/alberto.png",
+      "image": "https://www.paychex.com/sites/default/files/styles/500x300crop/public/image/2020-09/AdobeStock_94420679.jpeg?itok=QL6rDZqZ",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -256,8 +256,8 @@
     },
     {
       "id": 2,
-      "name": "Agumbe Tang",
-      "image": "/assets/images/alberto.png",
+      "name": "Maneet Chauhan",
+      "image": "http://sayfty.com/wp-content/uploads/2014/10/Maneet-solo-hi-res-2.jpg",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -265,8 +265,8 @@
     },
     {
       "id": 3,
-      "name": "Alberto Somayya",
-      "image": "/assets/images/alberto.png",
+      "name": "Chef Sanjeev Kapoor",
+      "image": "https://www.hotelnewsme.com/wp-content/uploads/2016/10/Chef-Sanjeev-Kapoor-e1475565787589.jpg",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
